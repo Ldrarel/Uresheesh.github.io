@@ -1,4 +1,2 @@
-# Magayonon sya
-## Sya lang talaga
-[MAGAYONON SYA](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-**Sya talaga**
+# Vaughn Elias Ll. Angeles
+**Nugagawen kung iba gusto nya?**
