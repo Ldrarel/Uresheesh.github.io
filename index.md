@@ -1,9 +1,15 @@
 # Vaughn Elias Ll. Angeles
 **Nugagawen kung iba gusto nya?**
 <img src="https://user-images.githubusercontent.com/95326401/211949634-b776249b-41aa-4cbe-ab71-f2983ebe90f8.png" width="100" height="100">
+<object width="425" height="350">
+  <param name="movie" value="https://www.youtube.com/watch?v=nIjVuRTm-dc" />
+  <param name="wmode" value="transparent" />
+  <embed src="https://www.youtube.com/watch?v=nIjVuRTm-dc"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
 
 [Facebook](https://www.facebook.com/profile.php?id=100087993836473)
-[Youtube](https://www.youtube.com/watch?v=nIjVuRTm-dc)
 
       Listahan kang nasa isip ko
       
