@@ -1,7 +1,7 @@
-# Vaughn Elias Ll. Angeles
-**Nugagawen kung iba gusto nya?**
+# "A smile is the easiest way out of a difficult situation"
+![image](https://user-images.githubusercontent.com/95326401/212545652-5b1a9c0e-ca2d-46e4-a972-e3e83dfdcb38.png)
 
-<img src="https://user-images.githubusercontent.com/95326401/211949634-b776249b-41aa-4cbe-ab71-f2983ebe90f8.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/95326401/212545652-5b1a9c0e-ca2d-46e4-a972-e3e83dfdcb38.png" width="100" height="100">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k4V3Mo61fJM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
