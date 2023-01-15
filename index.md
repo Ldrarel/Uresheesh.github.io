@@ -13,7 +13,7 @@ Things I like to do
 3. spend time with loved ones
 4. Eat
 
-      Daily Schedule
+      Weekly Schedule
       
 | Monday | Tuesday | Wednesday | Thursday  | Friday |
 | ------ | --------| --------  |-----------|--------|
