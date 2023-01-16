@@ -14,9 +14,9 @@ Things I like to do
       Weekly Schedule
       
       
-| Monday | Tuesday | Wednesday | Thursday  | Friday |
-| ------ | --------| --------  |-----------|--------|
-|   Study |   Review  |     Study    |    Study  |    Assessment/Assignment/Quiz  | 
+| Monday | Tuesday | Wednesday | Thursday  | Friday | Saturday |Sunday |
+| ------ | --------| --------  |-----------|--------|--------|--------|
+|   Study |   Review  |     Study    |    Study  |    Assessment/Assignment/Quiz  | Lakaw-lakaw sa sm | Lakaw-lakaw sa robs |
 
 
 [Facebook](https://www.facebook.com/profile.php?id=100087993836473)
