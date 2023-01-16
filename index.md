@@ -7,7 +7,7 @@
 
 Things I like to do
 >1. Play Games
->2. Watch Anime/Kdrama or read manga, manwha/webtoonspend
+>2. Watch Anime/Kdrama or read manga, manwha/webtoon
 >3. spend time with loved ones
 >4. Eat
 
