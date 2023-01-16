@@ -16,7 +16,7 @@ Things I like to do
       
 | Monday | Tuesday | Wednesday | Thursday  | Friday | Saturday |Sunday |
 | ------ | --------| --------  |-----------|--------|--------|--------|
-|   Study |   Review  |     Study    |    Study  |    Assessment/Assignment/Quiz  | Lakaw-lakaw sa sm | Lakaw-lakaw sa robs |
+|   Study |   Review  |     Study    |    Study  |    Assessment/Assignment/Quiz  | Me Time | Free time |
 
 
 [Facebook](https://www.facebook.com/profile.php?id=100087993836473)
